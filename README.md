@@ -17,7 +17,7 @@ Verifique se a versão v0.39.2 foi instalada.
 ### `NODE.JS`
 
 Digite `nvm install --lts`\
-Digite `node -v`.\
+Digite `node -v`\
 Verifique se a versão v16.17.1 foi instalada.
 
 ### `Create React App`
