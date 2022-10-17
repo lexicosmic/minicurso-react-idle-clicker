@@ -4,7 +4,7 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 
 ## Instalação
 
-### `NVM`
+### NVM
 
 Abra o terminal.\
 Digite `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash`\
@@ -14,14 +14,18 @@ Abra o terminal novamente.\
 Digite `nvm -v`\
 Verifique se a versão v0.39.2 foi instalada.
 
-### `NODE.JS`
+### NODE.JS
 
 Digite `nvm install --lts`\
 Digite `node -v`\
 Verifique se a versão v16.17.1 foi instalada.
 
-### `Create React App`
+### Create React App
 
 Digite `npx create-react-app oficina`\
 Aguarde a criação do projeto ser realizada.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no seu navegador.
+
+## Acesso aos slides
+
+Acesse as instruções de construção deste projeto em [slides](https://docs.google.com/presentation/d/1946AIDlJ2nlBlvPZ7fwzyzeiwdBqmKJCam7jFNcyYKQ/edit?usp=sharing).
