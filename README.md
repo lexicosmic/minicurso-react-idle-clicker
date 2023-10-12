@@ -22,7 +22,7 @@ Verifique se a versão v18.18.0 foi instalada.
 
 ### Create React App
 
-Digite `npx create-react-app oficina`\
+Digite `npx create-react-app idle-clicker`\
 Aguarde a criação do projeto ser realizada.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no seu navegador.
 
