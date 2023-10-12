@@ -7,18 +7,18 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 ### NVM
 
 Abra o terminal.\
-Digite `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash`\
+Digite `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash`\
 Feche o terminal.
 
 Abra o terminal novamente.\
 Digite `nvm -v`\
-Verifique se a versão v0.39.2 foi instalada.
+Verifique se a versão v0.39.5 foi instalada.
 
 ### NODE.JS
 
 Digite `nvm install --lts`\
 Digite `node -v`\
-Verifique se a versão v16.17.1 foi instalada.
+Verifique se a versão v18.18.0 foi instalada.
 
 ### Create React App
 
